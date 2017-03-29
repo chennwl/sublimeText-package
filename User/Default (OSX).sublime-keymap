@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+shift+c"], "command": "color_pick" },
+	{ "keys": ["super+shift+j"], "command": "js_format","context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json"}]},
+	{ "keys": ["f12"], "command": "side_bar_open_in_browser","args":{"paths":[], "type":"testing", "browser":""}},
+	{ "keys": ["f2"], "command": "side_bar_rename"},
+]
