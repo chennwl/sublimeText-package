@@ -9,6 +9,7 @@
 		"AutoFileName",
 		"BracketHighlighter",
 		"ColorPicker",
+		"Console API Snippets (JavaScript)",
 		"ConvertToUTF8",
 		"CSS Format",
 		"CSScomb",
@@ -17,12 +18,15 @@
 		"JsFormat",
 		"MarkdownEditing",
 		"Package Control",
+		"PlainTasks",
 		"Sass",
 		"SASS Build",
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeREPL",
 		"Terminal",
+		"TrailingSpaces",
 		"Trimmer"
 	]
 }
